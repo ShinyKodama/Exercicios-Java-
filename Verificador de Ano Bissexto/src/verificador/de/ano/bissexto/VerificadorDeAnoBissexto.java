@@ -35,7 +35,7 @@ public class VerificadorDeAnoBissexto {
             
             System.out.print(" Aperte ENTER para voltar! ");
             s.nextLine();
-            s.nextLine();
+            s.nextLine(); // limpar a droga do buffer
             continue;
         }
     }

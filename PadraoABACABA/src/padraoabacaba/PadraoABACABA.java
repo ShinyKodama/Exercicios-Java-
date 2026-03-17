@@ -15,6 +15,7 @@ public class PadraoABACABA {
     também conhecido como padrão ABACABA. O programa deve gerar as primeiras quatro linhas do padrão,
     conforme o exemplo abaixo. Observe a estrutura recursiva do padrão, onde cada linha é 
     construída a partir da linha anterior.
+    
     1 
     1 2 1 
     1 2 1 3 1 2 1
