@@ -23,11 +23,11 @@ public class PadraoABACABA {
   */
     public static void main(String[] args) {
         String row = "1";
-        
+      
         for (int i = 1; i <= 4; i++) {
             System.out.println(row);
             
-            if (i < 4)
+            if (i < 10)
                 row = row + " " + ( i + 1 ) + " " + row;
         }
     } // dificil pra caceta esse ;-;
